@@ -1,0 +1,6 @@
+{
+    "name": "portfolio-website",
+    "scripts": {
+      "vercel-build": "@vercel/php"
+    }
+  }

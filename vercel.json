@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "C:\\Windows\\System32\\portfolio-website",  
+        "use": "@vercel/php"
+      }
+    ]
+  }
